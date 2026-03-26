@@ -897,7 +897,7 @@ Multi-Core Score matters for:
 
 ## 🔬 Hands-On Exercise 1.1
 
-**Exercise A: CPU-Z Deep Dive**
+**Exercise A: CPU-Z **
 
 Run CPU-Z and record the following, then explain what each means in your own words:
 1. What is your CPU's Max TDP? (Thermal Design Power)
@@ -2074,7 +2074,7 @@ CHEAPEST ┌──────────────────────�
 
 ---
 
-### 1.4.2 Cache Memory — Deep Dive
+### 1.4.2 Cache Memory 
 
 Cache memory is the single most important performance innovation in modern CPUs. Understanding it lets you write dramatically faster code.
 
@@ -3094,15 +3094,7 @@ print(f"ALU OR  1101 | 1010 = {alu_or('1101', '1010')}")     # 1111
 | LTT (YouTube) | youtube.com/c/LinusTechTips | Accessible hardware explanations |
 | Computerphile | youtube.com/@Computerphile | Academic-quality CS fundamentals |
 
-## 🏆 Relevant Certifications
 
-| Certification | Provider | Focus | Value |
-|--------------|---------|-------|-------|
-| CompTIA A+ | CompTIA | PC hardware and troubleshooting | Foundation for IT careers |
-| CompTIA Server+ | CompTIA | Server hardware architecture | Data center careers |
-| AWS Solutions Architect | Amazon | Cloud architecture | Cloud career premium |
-| Intel Architecture Certificate | Intel (Coursera) | x86 architecture deep dive | CPU design understanding |
-| Arm Professional Certificate | Arm (Coursera) | ARM ISA and microarchitecture | Mobile/embedded systems |
 
 
 
