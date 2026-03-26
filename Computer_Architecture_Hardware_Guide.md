@@ -3104,66 +3104,7 @@ print(f"ALU OR  1101 | 1010 = {alu_or('1101', '1010')}")     # 1111
 | Intel Architecture Certificate | Intel (Coursera) | x86 architecture deep dive | CPU design understanding |
 | Arm Professional Certificate | Arm (Coursera) | ARM ISA and microarchitecture | Mobile/embedded systems |
 
-## 🛠️ Tools to Continue Learning
 
-```
-ESSENTIAL TOOLS:
-─────────────────────────────────────────────────────────
-CPU-Z          : CPU, RAM, motherboard details
-HWiNFO64       : Comprehensive hardware monitoring
-Cinebench R23  : CPU benchmark (industry standard)
-CrystalDiskInfo: SSD health and stats
-Prime95        : CPU stress test (also tests thermal limits)
-MemTest86      : RAM error testing (runs from USB)
-AS SSD         : SSD benchmark
-3DMark         : GPU + system benchmark
-AIDA64         : Full system information + benchmarks
-Intel VTune    : Performance profiler (developer tool)
-Valgrind       : Memory error detector (Linux, developer)
-perf            : Linux performance counter tool
-─────────────────────────────────────────────────────────
-```
 
 ---
 
-## 🚀 Next Steps — What to Learn After This Module
-
-After mastering Computer Architecture & Hardware, advance to:
-
-1. **Operating Systems** — How software manages the hardware you just learned about (process scheduling, memory management, file systems)
-
-2. **Computer Networks** — How computers communicate (TCP/IP, routing, DNS, HTTP)
-
-3. **Assembly Language** — Write code at the ISA level; see machine code directly
-
-4. **Data Structures & Algorithms** — Apply your cache knowledge to write cache-friendly algorithms
-
-5. **Digital Logic Design** — Go deeper into how transistors become gates, gates become circuits
-
-6. **FPGA Programming** — Program reconfigurable hardware; design circuits directly
-
----
-
-## 🏁 Congratulations!
-
-You have completed the Computer Architecture & Hardware module. You now understand:
-
-- ✅ How computers are structured (Von Neumann model)
-- ✅ The complete history from vacuum tubes to quantum computers
-- ✅ RISC vs CISC and why it matters for your devices
-- ✅ How pipelines and superscalar execution work
-- ✅ The ALU and binary arithmetic
-- ✅ Virtual memory and paging
-- ✅ Every component inside a CPU
-- ✅ Branch prediction and speculative execution
-- ✅ The full memory hierarchy (registers to HDD)
-- ✅ Cache memory, coherence, and optimization
-- ✅ SSD technology and interfaces
-- ✅ ECC memory and error correction
-
-**You are now among the minority of developers who truly understand the machine.**
-
----
-
-*Guide Version 1.0 | Computer Architecture - Hardware | 40-Day Intensive*
-*Target: Absolute Beginners → Expert Level*
