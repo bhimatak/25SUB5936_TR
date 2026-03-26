@@ -754,7 +754,7 @@ void setup_dma_transfer(struct device *dev, void *buffer, size_t size) {
 ╚═══════════════════╩═══════════╩═══════════════╩════════════════════════════╝
 ```
 
-**USB — Universal Serial Bus Deep Dive:**
+**USB — Universal Serial Bus:**
 
 ```
 USB TOPOLOGY AND HOW IT WORKS:
@@ -1950,7 +1950,7 @@ def gpu_matrix_multiply():
 
 ### 🏗️ Core Content
 
-**SIMD Deep Dive — Vector Processing:**
+**SIMD — Vector Processing:**
 
 ```
 SIMD REGISTER EVOLUTION:
